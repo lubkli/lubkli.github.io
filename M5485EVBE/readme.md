@@ -1,4 +1,4 @@
-# Freescale M5485EVBE Development Board ======
+# Freescale M5485EVBE Development Board
 
 ## 1. Package content
 
