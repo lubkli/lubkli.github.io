@@ -6,7 +6,8 @@
 
 ## Hardware
 
-  * Programming [Freescale M5485EVBE](M5485EVBE/readme.md)
+  * [Atari CIO](ATARI/readme.md)
+  * [Freescale M5485EVBE](M5485EVBE/readme.md)
 
 ## Software
 
