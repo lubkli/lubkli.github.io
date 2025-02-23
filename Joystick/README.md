@@ -1,0 +1,3 @@
+  - Box 1594BSBK
+    - https://www.digikey.cz/cs/products/detail/hammond-manufacturing/1594BSBK/2359729
+    - https://www.conrad.cz/cs/p/hammond-electronics-1594bsbk-univerzalni-pouzdro-abs-cerna-1-ks-485645.html?srsltid=AfmBOopiYO-7DJXyb_yzzchNldlSvDTvW6tsdlEAoEYamgsDlkMVpits
